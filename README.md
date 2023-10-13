@@ -1,8 +1,16 @@
 # 💫 About Me:
-My name is Omurbek and I'm FrontEnd developer<br>I'm currently time working a scale project <br>I'm currently working on company RT<br>I'm currently learning Web.3, TS, NodeJs<br>My team and I do projects of any complexity<br>Today you're making code, tomorrow the code makes you money.
+### 😎 My name is Omurbek and I'm FrontEnd developer
+### 💻 I'm currently time working a scale project 
+### 💵 I'm currently working on company RT
+### 📖 I'm currently learning Web.3, TS, NodeJs
+### 📈 My team and I do projects of any complexity
+### 🧾 Today you're making code, tomorrow the code makes you money.
+
+---
 
 ## 📈 To understand the code of a mid, you need to be a mid. To understand the code of a senior, it's enough to be a junior.
 
+---
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/1107228315196067910/1107228315737141299) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sensei_devx/) 
