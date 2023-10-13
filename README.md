@@ -1,7 +1,7 @@
 # 💫 About Me:
 My name is Omurbek and I'm FrontEnd developer<br>I'm currently time working a scale project <br>I'm currently working on company RT<br>I'm currently learning Web.3, TS, NodeJs<br>My team and I do projects of any complexity<br>Today you're making code, tomorrow the code makes you money.
 
-###To understand the code of a mid, you need to be a mid. To understand the code of a senior, it's enough to be a junior.
+## 📈 To understand the code of a mid, you need to be a mid. To understand the code of a senior, it's enough to be a junior.
 
 
 ## 🌐 Socials:
