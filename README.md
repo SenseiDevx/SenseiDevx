@@ -1,6 +1,8 @@
 # 💫 About Me:
 My name is Omurbek and I'm FrontEnd developer<br>I'm currently time working a scale project <br>I'm currently working on company RT<br>I'm currently learning Web.3, TS, NodeJs<br>My team and I do projects of any complexity<br>Today you're making code, tomorrow the code makes you money.
 
+###To understand the code of a mid, you need to be a mid. To understand the code of a senior, it's enough to be a junior.
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/1107228315196067910/1107228315737141299) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/sensei_devx/) 
@@ -15,10 +17,10 @@ My name is Omurbek and I'm FrontEnd developer<br>I'm currently time working a sc
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sensei404&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️Best Developer Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repository
 ![](https://github-contributor-stats.vercel.app/api?username=sensei404&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
@@ -27,4 +29,3 @@ My name is Omurbek and I'm FrontEnd developer<br>I'm currently time working a sc
 ---
 [![](https://visitcount.itsvg.in/api?id=sensei404&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
