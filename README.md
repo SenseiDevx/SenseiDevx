@@ -1,5 +1,5 @@
 # 💫 About Me:
-#### 😎 My name is Omurbek and I'm FrontEnd developer
+### 😎 My name is Omurbek and I'm FrontEnd developer
 ### 💻 I'm currently time working a scale project 
 ### 💵 I'm currently working on company RT
 ### 📖 I'm currently learning Web.3, TS, NodeJs
