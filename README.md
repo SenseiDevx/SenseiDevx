@@ -7,6 +7,8 @@
 ### 📫 How to reach me __kurmanbekovomurbek80@gmail.com__
 ### 📄 Know about my experiences __https://github.com/sensei404?tab=repositories__
 
+-----
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sensei_devx) 
