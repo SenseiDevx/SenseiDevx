@@ -1,5 +1,5 @@
 # 💫 About Me:
-###🔭 I’m currently working on __Izde__<br>###🌱 I’m currently learning __TypeScript__, __React Native__, __Web3__<br>###👯 I'm not looking for cooperation on projects yet.<br>###👨‍💻 All of my projects are available at __https://github.com/sensei404?tab=repositories__<br>###💬 Ask me about __JS__, __TS__, __React__, __Redux__<br>###📫 How to reach me __kurmanbekovomurbek80@gmail.com__<br>###📄 Know about my experiences __https://github.com/sensei404?tab=repositories__<br><br>
+### 🔭 I’m currently working on __Izde__<br>### 🌱 I’m currently learning __TypeScript__, __React Native__, __Web3__<br>###👯 I'm not looking for cooperation on projects yet.<br>###👨‍💻 All of my projects are available at __https://github.com/sensei404?tab=repositories__<br>###💬 Ask me about __JS__, __TS__, __React__, __Redux__<br>###📫 How to reach me __kurmanbekovomurbek80@gmail.com__<br>###📄 Know about my experiences __https://github.com/sensei404?tab=repositories__<br><br>
 
 
 ## 🌐 Socials:
