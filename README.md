@@ -1,5 +1,11 @@
 # 💫 About Me:
- 🔭 I’m currently working on __Secret Project__ 🌱 I’m currently learning __TypeScript__, __React Native__, __Web3__ 👯 I'm not looking for cooperation on projects yet. 👨‍💻 All of my projects are available at __https://github.com/sensei404?tab=repositories__ 💬 Ask me about __JS__, __TS__, __React__, __Redux__ 📫 How to reach me __kurmanbekovomurbek80@gmail.com__ 📄 Know about my experiences __https://github.com/sensei404?tab=repositories__
+🔭 I’m currently working on __Secret Project__
+🌱 I’m currently learning __TypeScript__, __React Native__, __Web3__
+👯 I'm not looking for cooperation on projects yet.
+👨‍💻 All of my projects are available at __https://github.com/sensei404?tab=repositories__
+💬 Ask me about __JS__, __TS__, __React__, __Redux__
+📫 How to reach me __kurmanbekovomurbek80@gmail.com__
+📄 Know about my experiences __https://github.com/sensei404?tab=repositories__
 
 -----
 
