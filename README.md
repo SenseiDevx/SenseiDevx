@@ -6,9 +6,7 @@
 * 💬 Ask me about __JS__, __TS__, __React__, __Redux__<br>
 * 📫 How to reach me __kurmanbekovomurbek80@gmail.com__<br>
 
-
 -----
-
 
 ## 🌐 My Socials media:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sensei_devx) 
