@@ -6,7 +6,6 @@
 * 💬 Ask me about __JS__, __TS__, __React__, __Redux__<br>
 * 📫 How to reach me __kurmanbekovomurbek80@gmail.com__<br>
 
-
 -----
 
 
