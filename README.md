@@ -4,7 +4,7 @@
 * 👯 I'm not looking for cooperation on projects yet.<br>
 * 👨‍💻 All of my projects are available at __https://github.com/SenseiDevx?tab=repositories__<br>
 * 💬 Ask me about __JS__, __TS__, __React__, __Redux__<br>
-* 📫 How to reach me __kurmanbekovomurbek80@gmail.com__<br>
+* 📫 How to reach me __kurmanbekovomurbek80@gmail.com__<br> 
 
 -----
 
