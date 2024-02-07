@@ -1,4 +1,4 @@
-# 💫 About Myself:<br>
+# 💫 About Myself:<br> 
 * 🔭 I’m currently working on  __Personal Project__<br>
 * 🌱 I’m currently learning a little bit __TypeScript__, __React Native__, __Web3__<br>   
 * 👯 I'm not looking for cooperation on projects yet.<br> 
