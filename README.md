@@ -5,7 +5,7 @@
 * 👨‍💻 All of my projects are available at __https://github.com/SenseiDevx?tab=repositories__<br>
 * 💬 Ask me about __JS__, __React__, __Redux__, __React Query__<br>
 * 📫 How to reach me __kurmanbekovomurbek80@gmail.com__<br>
-
+ 
 -----
 
 ## 🌐 My Socials media:
