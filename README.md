@@ -1,9 +1,9 @@
 # 💫 About Myself:<br>
 * 🔭 I’m currently working on  __StartUp__<br>
-* 🌱 I’m currently learning a little bit __TypeScript__, __React Native__, __Web3__<br>
+* 🌱 I’m currently learning a little bit __React Native__, __Web3__<br>
 * 👯 I'm not looking for cooperation on projects yet.<br>
 * 👨‍💻 All of my projects are available at __https://github.com/SenseiDevx?tab=repositories__<br>
-* 💬 Ask me about __JS__, __React__, __Redux__, __React Query__<br>
+* 💬 Ask me about __JS__, __React__, __Redux__, __React Query__, __Zustand__, __TS__<br>
 * 📫 How to reach me __kurmanbekovomurbek80@gmail.com__<br>
  
 -----
