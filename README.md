@@ -6,7 +6,6 @@
 * 💬 Ask me about __Front-End__, __CI/CD__, __Deploy__, __GIT__ <br>
 * 📫 How to reach me __kurmanbekovomurbek80@gmail.com__<br>
 
-
 -----
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
