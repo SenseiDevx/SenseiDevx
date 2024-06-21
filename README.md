@@ -1,5 +1,5 @@
 # 💫 About Myself:<br>
-* 🔭 I’m currently working on  __StartUp__<br>
+* 🔭 I’m currently working on  __StartUp__<br> 
 * 🌱 I’m currently learning a little bit __React Native__, __Web3__<br>
 * 👯 I'm not looking for cooperation on projects yet.<br>
 * 👨‍💻 All of my projects are available at __https://github.com/SenseiDevx?tab=repositories__<br>
