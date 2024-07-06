@@ -28,7 +28,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SenseiDevx&radius=16&theme=tokyo-night&area=true&order=5" height="150" alt="activity-graph graph"  />
 
 
-
 ## 🏆 My GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sensei404&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
