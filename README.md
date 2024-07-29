@@ -3,7 +3,7 @@
 * 🌱 I’m currently learning a little bit __React Native__, __Web3__<br>
 * 👯 I'm not looking for cooperation on projects yet.<br>
 * 👨‍💻 All of my projects are available at __https://github.com/SenseiDevx?tab=repositories__<br> 
-* 💬 Ask me about __Front-End__, __CI/CD__, __Deploy__, __GIT__ <br>
+* 💬 Ask me about __Front-End__, __CI/CD__, __Deploy__, __GIT__ <br> 
 * 📫 How to reach me __kurmanbekovomurbek80@gmail.com__<br>
 
 -----
